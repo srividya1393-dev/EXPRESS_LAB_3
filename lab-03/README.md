@@ -101,7 +101,7 @@ Example Request Body:
 ```json
 {
   "title": "New Book",
-  "author": "Druvathi",
+  "author": "ME",
   "price": 450,
   "pages": 300
 }
